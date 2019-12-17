@@ -1,0 +1,7 @@
+pip
+setuptools
+torch
+torchvision
+matplotlib
+tensorboard
+dgl
