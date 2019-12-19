@@ -1,5 +1,8 @@
 pip
 setuptools
+rdflib
+pandas
+numpy
 torch
 torchvision
 matplotlib
